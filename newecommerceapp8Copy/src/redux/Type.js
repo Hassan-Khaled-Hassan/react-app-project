@@ -1,0 +1,16 @@
+export   const GetAllCategory = "GetAllCategory ";
+export const GetError = "GetError";
+export const AddNewCategory = "AddNewCategory";
+export const GetAllBrands = "GetAllBrands";
+export const AddNewBrand = "AddNewBrand";
+export const AddSubCategory = "AddSubCategory";
+export const GetSubCategories = "GetSubCategories";
+export const AddProduct = "AddProduct";
+export const GetProducts = "GetProducts";
+export const GetUniqueProduct = "GetUniqueProduct";
+export const GetOneCategory = "GetOneCategory";
+export const GetOneBrand = "GetOneBrand";
+export const GetRelatedProduct = "GetRelatedProduct";
+export const DeleteOneProduct = "DeleteOneProduct";
+export const EditOneProduct = "EditOneProduct";
+export const AddNewSignUp = "AddNewSignUp";
